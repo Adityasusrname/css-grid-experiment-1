@@ -1,0 +1,54 @@
+.css-grid-container{
+    display: grid;
+    grid-template-columns:250px 250px;
+    gap: 10px;
+    
+     
+}
+.flexbox-container{
+    display: flex;
+    justify-content: center;
+}
+.item-1{
+
+    background-color:burlywood;
+    width: 250px;
+    height: 400px;
+    line-height: 400px;
+    text-align: center;
+    
+  }
+    .item-2{
+        background-color:burlywood;
+        width: 250px;
+        height: 400px;
+        line-height: 400px;
+        text-align: center;
+        
+        
+        }
+        .item-3{
+            background-color:burlywood;
+            width: 250px;
+            height: 400px;
+            line-height: 400px;
+            text-align: center;
+            
+            }
+            .item-4{
+                background-color:burlywood;
+                width: 250px;
+                height: 400px;
+                line-height: 400px;
+                text-align: center;
+                
+                
+                }
+                header{
+                    display: flex;
+                    justify-content: center;
+                    color: blue;
+                }
+                p{
+                    margin: 0;
+                }
